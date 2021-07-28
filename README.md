@@ -1,7 +1,7 @@
 # FinalYearProject
 -- University Final Year Project --
 
-Welcome to the CelebLookalike Generation Application!
+Welcome to the Celebrity Lookalike Generation App!
 
 To begin using the application please open the command prompt.
 
